@@ -5,7 +5,8 @@
   "main": "start.js",
   "type": "module",
   "scripts": {
-    "start": "node start.js"
+    "start": "node start.js",
+    "guess": "node guessScript.js"
   },
   "keywords": [
     "node",
